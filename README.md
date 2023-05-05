@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Miiiwn
-- 👀 je suis spécialisé dans FiveM
-- 🌱 J'apprends le Lua
-- 💞️ Je cherche à m'améliorer encore en développement
-- 📫 Contactez moi sur Discord ( 'oγʞoT#0429 ) 
+- 👋 Hi, I’m @Maaze
+- 👀 Research on AI
+- 🌱 I'm Learning HTML CSS
+- 💻 - Lua developer
+- 💞️ English, French, Spanish, Russian
+- 📫 Contact (Maaze#4947) 
+
+Credits : Maaze // FiveM // NextDev
 
 <!---
 Miiiwn/Miiiwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
